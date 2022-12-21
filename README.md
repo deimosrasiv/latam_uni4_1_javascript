@@ -12,6 +12,6 @@ esta ocasión, un cliente nos solicita una aplicación que funcione como galerí
 para mostrar a los usuarios que lo visitan a través de su portal web. La aplicación debe llevar
 por nombre Galería de Imágenes con React.
 
-Linck del desafio deployado: https://gleeful-flan-d482cc.netlify.app
+Linck del desafio deployado: [https://gleeful-flan-d482cc.netlify.app](https://gleeful-custard-d482cc.netlify.app/)
 
 

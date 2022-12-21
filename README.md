@@ -1,4 +1,4 @@
-# Desafío 1 - Galería de imágenes con Reac
+# Desafío 1 - Galería de imágenes con React
 
 En este desafío validaremos nuestros conocimientos de la unidad Introducción a React.
 Lee todo el documento antes de comenzar el desarrollo individual, para asegurarte de tener
